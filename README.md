@@ -20,6 +20,8 @@
 
 ### other_algorithms.ipynb is for testing other feature detection and matching algorithms (no special)
 
+### The result_images directory is for images that I have used for the presentation (no special)
+
 ### All results are at final_results.blend and experiment.blend
 
 ### Please let me know if you have any question
