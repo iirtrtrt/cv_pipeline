@@ -14,7 +14,7 @@
 
 ### The crop.ipynb file has been used to extract only the face
 
-### The Blender files for the results and data preparation can be download via: https://drive.google.com/drive/folders/1EQ2_YjhNKRMyUGH29EpDnKRsG0L94eoq?usp=sharing
+### The Blender files for the results and data preparation can be downloaded via: https://drive.google.com/drive/folders/1EQ2_YjhNKRMyUGH29EpDnKRsG0L94eoq?usp=sharing
 
 ### brad.ipynb, brad_crop.ipynb are used to test the Brad Pitt face (no special)
 
@@ -24,4 +24,4 @@
 
 ### All results are at final_results.blend and experiment.blend
 
-### Please let me know if you have any question
+### Please let me know if you have any questions
